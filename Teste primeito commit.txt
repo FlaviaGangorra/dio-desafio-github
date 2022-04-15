@@ -1,4 +1,6 @@
 teste primeiro commit
+
+Comandos a serem executados:
 1º
 git add .
 
